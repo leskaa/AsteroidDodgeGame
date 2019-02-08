@@ -6,7 +6,7 @@ The game was created with [Processing for Java](https://processing.org/). Proces
 ## Setup Instructions
 
 1. Install the [Java 8 Runtime Enviroment](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) if you do not currently have it
-2. Download the latest release of the application from the releases page
+2. Download the [latest release](https://github.com/leskaa/AsteroidDodgeGame/releases/tag/v1.0) of the application from the [releases page](https://github.com/leskaa/AsteroidDodgeGame/releases)
 3. Extract the zip into a folder
 4. Run AsteroidDodgeGame.exe
 
