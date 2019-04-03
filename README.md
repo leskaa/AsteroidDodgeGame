@@ -14,11 +14,11 @@ The game was created with [Processing for Java](https://processing.org/). Proces
 
 * **Avoid Asteroids**
 
-Evade asteroids for as long as possible. A high score table is already populated with symbolic high scores from the game's development. Scoring higher than these scores will causes your time to be added to the table.
+Evade asteroids for as long as possible. A high score table is already populated with symbolic high scores from the game's development. Scoring higher than these scores will cause your time to be added to the table.
 
 * **Utilize Power-Ups**
 
-Power-ups are available to pick up and actiate at any time. They appear on a stack in the top left after collection. You may hold up to four power-ups at once. Activating a power-up causes the most recently collected one to be used.
+Power-ups are available to pick up and activate at any time. They appear on a stack in the top left after collection. You may hold up to four power-ups at once. Activating a power-up causes the most recently collected one to be used.
 
 ### Power-Ups
 
